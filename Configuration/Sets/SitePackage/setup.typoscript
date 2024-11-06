@@ -1,0 +1,21 @@
+page {
+    includeCSS {
+        theme = EXT:aww2025/Resources/Public/Scss/Theme/theme.scss
+    }
+
+    includeJSLibs {
+
+    }
+
+    includeJS {
+
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+        aww2025_scripts = EXT:aww2025/Resources/Public/JavaScript/main.js
+    }
+}

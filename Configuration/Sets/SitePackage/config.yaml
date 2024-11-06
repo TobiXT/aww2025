@@ -1,0 +1,4 @@
+name: rasani/aww2025
+label: 'Aww2025'
+dependencies:
+  - bootstrap-package/full
